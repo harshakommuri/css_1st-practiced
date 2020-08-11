@@ -1,0 +1,136 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family:"https://fonts.google.com/specimen/Dancing+Script?preview.text=serif&preview.text_type=custom&selection.family=Dancing+Script:wght@562" verdana,sans-serif;
+
+}
+h1{
+  margin: 0;
+  color: #66BFBF;
+  font-family: 'Sacramento',cursive;
+  font-size: 5rem;
+
+
+}
+.prof{
+    color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+p{
+  line-height: 2;
+
+}
+
+
+
+.top{
+  background-color: #E4F9F5;
+  border: solid;
+  position: relative;
+  padding-top: 100px;
+}
+.middle{
+}
+.bottom{
+}
+
+
+
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: relative;
+  left: 250px;
+}
+.pic{
+  margin: auto;
+  margin-top: 10px;
+  width: 200px;
+  height: 200px;
+
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.contact-me{
+  width: 40%;
+  margin: auto;
+}
+.btn{
+  margin-bottom: 10px;
+	box-shadow: 0px 0px 8px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:20px;
+	border:3px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family: 'Montserrat',sans-serif;
+	font-size:19px;
+	font-weight:bold;
+	font-style:italic;
+	padding:12px 53px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin-top: 10PX;
+  padding-top: 20px;
+  padding-bottom: 10px;
+
+}
+a{
+  color: #11999E;
+  margin: 5px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+.skill-row{
+width:50%;
+  margin: 100px auto;
+  text-align: left;
+
+}
+.embeded{
+  width: 50%;
+  float: left;
+  margin-bottom: 100px;
+}
+.skill{
+  width: 50%;
+  float: right;
+  margin-top: 100px;
+}
